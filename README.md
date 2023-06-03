@@ -28,13 +28,13 @@ Users should be able to:
 
 ![](./screenshot.jpg)
 
-| Desktop View                                              |
-| --------------------------------------------------------- |
-| ![Desktop](./src/images/screenshots/memories_Desktop.png) |
+| Desktop View                                   |
+| ---------------------------------------------- |
+| ![Desktop](./screenshots/memories_Desktop.png) |
 
-| Tablet View                                              | Mobile View                                             |
-| -------------------------------------------------------- | ------------------------------------------------------- |
-| ![Tablet](./src/images/screenshots/memories_tabView.png) | ![Mobile](./src/images/screenshots/memories_mobile.png) |
+| Tablet View                                   | Mobile View                                  |
+| --------------------------------------------- | -------------------------------------------- |
+| ![Tablet](./screenshots/memories_tabView.png) | ![Mobile](./screenshots/memories_mobile.png) |
 
 ### Links
 
